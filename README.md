@@ -26,5 +26,5 @@ A step-by-step series of examples that tell you how to get a development environ
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/SriBoo/-Multi-Step-Form-with-React-.git>.git
    cd <repository-name>
